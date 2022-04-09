@@ -6,4 +6,16 @@ We will be looking at statistics of some YouTube channels and then focus on one 
 
 On this python code we are visualizing and coming to the conclusion.
 
-Lets look at the code!!!
+<b>Total Subscribers of each Channel</b>
+
+<img src="/videos.png" alt="Videos">
+
+<b>Total Videos of each Channel</b>
+
+<img src="/videos.png" alt="Videos">
+
+<b>Total Views of each Channel</b>
+
+<img src="/videos.png" alt="Videos">
+
+<b>Lets look at the code!!!</b>
